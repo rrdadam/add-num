@@ -5,6 +5,6 @@ class addnum {
       int num , num1 , sum;
       sum = num + num1;
 
-      System.out.println("Sum of these numbers: "+sub);
+      System.out.println("Sum of these numbers: "+sum);
    }
 }
